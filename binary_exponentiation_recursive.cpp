@@ -1,3 +1,9 @@
+/*
+    Author: Burak Bugrul
+    Algorithm: Binary Exponentiation
+    Time Comlexity( O(logP))
+*/
+
 #include <cstdio>
 
 long long int binary_exp( long long int n, long long int p, long long int mod ){
